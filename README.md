@@ -1,8 +1,8 @@
 ---
-source-git-commit: 20c4e7effb70e287c0e56c14e5831b139bc4a64c
+source-git-commit: 1d8853288655a9c383136080d0db89dba69d13eb
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '401'
+ht-degree: 100%
 
 ---
 # Artículo sobre colaboración
